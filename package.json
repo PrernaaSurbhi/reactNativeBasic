@@ -1,6 +1,6 @@
 {
   "name": "react-native-app-learning",
-  "main": "expo-router/entry",
+  "main": "/Users/prernasurbhi/Desktop/react-native-app-learning/App.js",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
